@@ -1,0 +1,13 @@
+.home {
+    display: flex;
+  }
+  
+  .home .homeContainer {
+    flex: 6;
+    margin-top: 10px;
+    
+  }
+  
+.heading2{
+  color: rgb(195, 255, 0);
+}

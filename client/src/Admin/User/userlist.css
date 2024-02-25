@@ -1,0 +1,56 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  .search-form {
+    margin-bottom: 20px;
+  }
+  .search-form label {
+    font-weight: bold;
+  }
+  .user-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .user-table th, .user-table td {
+    padding: 10px;
+    border: 1px solid #f4cdcd;
+    text-align: left;
+  }
+  .user-table th {
+    background-color: #ff4800;
+    color: white;
+    
+  }
+
+  .search-label {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .search-select {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    font-size: 16px;
+    margin-left: 14px;
+  }
+
+  
+  .search-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 5px 24px;
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background-color 0.3s ease;
+    margin-left: 14px;
+  }
+  
+  .search-button:hover {
+    background-color: #0056b3;
+  }
+  
